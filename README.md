@@ -1,5 +1,7 @@
 # JS Drum kit
 
+<a href="https://peeyush-pant.github.io/JS-Drum-Kit/" target="_blank">Demo</a>
+
 A very simple vanilla JS based drum kit.
 
 ```
